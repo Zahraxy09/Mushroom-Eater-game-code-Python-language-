@@ -1,7 +1,3 @@
-# Mushroom Eater - a simple Python/Pygame platformer
-# Requirements: Python 3.9+ and pygame (pip install pygame)
-# Controls: Left/Right arrows or A/D to move, Space or W or Up to jump. R to restart, ESC to quit.
-
 import sys
 import math
 import pygame
