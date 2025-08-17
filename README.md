@@ -12,7 +12,7 @@ MAX_X_SPEED = 6
 JUMP_VELOCITY = -12
 CAMERA_LERP = 0.1
 
-# Colors
+# Color
 WHITE = (240, 240, 240)
 BLACK = (15, 15, 20)
 SKY = (40, 45, 75)
