@@ -1,4 +1,4 @@
-import sys
+ import sys
 import math
 import pygame
 
@@ -29,6 +29,13 @@ def rect_from_grid(x, y):
 
 def sign(x):
     return (x > 0) - (x < 0)
+def rect_from_grid(x, y):
+    return pygame.Rect(x * TILE, y * TILE, TILE, TILE)
+
+
+def sign(x):
+    return (x > 0) - (x < 0)
+
 
 
 # ----------------------------- Entities -----------------------------
