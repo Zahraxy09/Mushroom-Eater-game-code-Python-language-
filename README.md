@@ -2,7 +2,7 @@
 import math
 import pygame
 
-# ----------------------------- Config ---------------
+# ------------------ Config ---------------
 WIDTH, HEIGHT = 960, 540
 FPS = 60
 TILE = 36
