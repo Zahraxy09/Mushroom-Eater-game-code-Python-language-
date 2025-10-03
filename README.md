@@ -38,7 +38,7 @@ def sign(x):
 
 
 
-# ----------------------------- Entities -----------------------------
+# ----------------------------- Entities ---------------------
 class Tile(pygame.sprite.Sprite):
     def __init__(self, rect):
         super().__init__()
