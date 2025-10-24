@@ -22,7 +22,7 @@ RED = (220, 80, 100)
 YELLOW = (245, 210, 100)
 BLUE = (100, 160, 240)
 ORANGE = (255, 150, 70)
-# ----------------------------- Helpers ----------------------------
+# ----------------------------- Helpers ---------------------
 def rect_from_grid(x, y):
     return pygame.Rect(x * TILE, y * TILE, TILE, TILE)
 
