@@ -354,7 +354,6 @@ if __name__ == "__main__":
         for m in mushrooms:
             m.draw(screen, camera.x)
         for e in enemies:
-                for e in enemies:
 
             e.draw(screen, camera.x)
 
