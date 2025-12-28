@@ -2,9 +2,7 @@
 import math
 import pygame
 import pygame
-# ------------------ Config ------------------
-WIDTH, HEIGHT = 960, 540
-FPS = 60
+# ------------------ Config -------------
 TILE = 36
 GRAVITY = 0.6
 FRICTION = 0.85
