@@ -2,8 +2,7 @@
 import math
 import pygame
 import pygame
-# ------------------ Config ------------------
-TILE = 36
+# ------------------ Config --------------
 GRAVITY = 0.6
 FRICTION = 0.85
 MAX_X_SPEED = 6
